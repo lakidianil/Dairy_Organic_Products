@@ -25,7 +25,13 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -43,7 +49,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2nWHisPQA2pkoEpgUaX6TMJWTG8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,8 +61,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.Dairy_01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lakidi/PycharmProjects/Naveen_Dairy_Organic/Dairy_Farm"
+    "git-widget-placeholder": "Dairy__Organic__Products",
+    "last_opened_file_path": "C:/Users/Lakidi/PycharmProjects/Naveen_Dairy_Organic/Dairy_Farm",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -122,11 +131,28 @@
       <option name="project" value="LOCAL" />
       <updated>1729087751070</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" https://github.com/lakidianil/Dairy_Organic_Products.git">
+      <option name="closed" value="true" />
+      <created>1729087926469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729087926469</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" https://github.com/lakidianil/Dairy_Organic_Products.git">
+      <option name="closed" value="true" />
+      <created>1729088895442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729088895442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://github.com/ANIL2523/ROYALITY.git" />
+    <MESSAGE value=" https://github.com/ANIL2523/ROYALITY.git" />
     <MESSAGE value=" https://github.com/lakidianil/Dairy_Organic_Products.git" />
     <option name="LAST_COMMIT_MESSAGE" value=" https://github.com/lakidianil/Dairy_Organic_Products.git" />
   </component>
